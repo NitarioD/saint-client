@@ -1,0 +1,217 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-c67a75d1b6f99dc8.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/W0ES3MzNfC7jIzqHj-0Sj/_buildManifest.js",
+    "static/W0ES3MzNfC7jIzqHj-0Sj/_ssgManifest.js"
+  ],
+  "rootMainFiles": [],
+  "pages": {
+    "/": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/pages/index-8b408b27e260b7cc.js"
+    ],
+    "/_app": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/css/20c175937533dfd1.css",
+      "static/chunks/pages/_app-3f517b01dc9ab610.js"
+    ],
+    "/_error": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/pages/_error-a59e2db023c5e431.js"
+    ],
+    "/about/the_point_man": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/fc83e031-420198ddcdcbb275.js",
+      "static/chunks/951-12e6e9cde78a83eb.js",
+      "static/chunks/pages/about/the_point_man-35f64735009e8a9c.js"
+    ],
+    "/about/the_sgf": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/fc83e031-420198ddcdcbb275.js",
+      "static/chunks/951-12e6e9cde78a83eb.js",
+      "static/chunks/pages/about/the_sgf-0b14a27ec5f79aae.js"
+    ],
+    "/admin": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/fc83e031-420198ddcdcbb275.js",
+      "static/chunks/75fc9c18-815b3a718897d181.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/43-3f070fdd4d2197a0.js",
+      "static/chunks/24-82ae58d660024ddf.js",
+      "static/chunks/461-a452b847ec84c771.js",
+      "static/chunks/548-fc7006fa9c8dffd7.js",
+      "static/chunks/951-12e6e9cde78a83eb.js",
+      "static/chunks/499-9f9b48fdc81caa75.js",
+      "static/chunks/843-aa358a914751d87b.js",
+      "static/chunks/187-fe62b2de8d85c821.js",
+      "static/chunks/831-1223a20ce95bca74.js",
+      "static/chunks/302-bcd140d13aee12fa.js",
+      "static/chunks/388-255def143420c9ac.js",
+      "static/chunks/pages/admin-2ef506f94d957e40.js"
+    ],
+    "/contact": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/24-82ae58d660024ddf.js",
+      "static/chunks/pages/contact-6fb1fe520b537005.js"
+    ],
+    "/evangelism": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/fc83e031-420198ddcdcbb275.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/43-3f070fdd4d2197a0.js",
+      "static/chunks/461-a452b847ec84c771.js",
+      "static/chunks/548-fc7006fa9c8dffd7.js",
+      "static/chunks/951-12e6e9cde78a83eb.js",
+      "static/chunks/499-9f9b48fdc81caa75.js",
+      "static/chunks/843-aa358a914751d87b.js",
+      "static/chunks/pages/evangelism-5371c4e95ed54302.js"
+    ],
+    "/giving": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/43-3f070fdd4d2197a0.js",
+      "static/chunks/548-fc7006fa9c8dffd7.js",
+      "static/chunks/302-bcd140d13aee12fa.js",
+      "static/chunks/pages/giving-f75a0f998c33a9d3.js"
+    ],
+    "/posts/sermons/publications": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/fc83e031-420198ddcdcbb275.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/43-3f070fdd4d2197a0.js",
+      "static/chunks/461-a452b847ec84c771.js",
+      "static/chunks/548-fc7006fa9c8dffd7.js",
+      "static/chunks/951-12e6e9cde78a83eb.js",
+      "static/chunks/499-9f9b48fdc81caa75.js",
+      "static/chunks/843-aa358a914751d87b.js",
+      "static/chunks/pages/posts/sermons/publications-28bb1086317491f2.js"
+    ],
+    "/posts/sermons/teachings": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/fc83e031-420198ddcdcbb275.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/43-3f070fdd4d2197a0.js",
+      "static/chunks/461-a452b847ec84c771.js",
+      "static/chunks/548-fc7006fa9c8dffd7.js",
+      "static/chunks/951-12e6e9cde78a83eb.js",
+      "static/chunks/499-9f9b48fdc81caa75.js",
+      "static/chunks/843-aa358a914751d87b.js",
+      "static/chunks/pages/posts/sermons/teachings-a05744c864b00fd0.js"
+    ],
+    "/posts/sermons/videos": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/43-3f070fdd4d2197a0.js",
+      "static/chunks/461-a452b847ec84c771.js",
+      "static/chunks/548-fc7006fa9c8dffd7.js",
+      "static/chunks/499-9f9b48fdc81caa75.js",
+      "static/chunks/843-aa358a914751d87b.js",
+      "static/chunks/pages/posts/sermons/videos-ba0804ff24422632.js"
+    ],
+    "/signin": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/43-3f070fdd4d2197a0.js",
+      "static/chunks/24-82ae58d660024ddf.js",
+      "static/chunks/461-a452b847ec84c771.js",
+      "static/chunks/831-1223a20ce95bca74.js",
+      "static/chunks/798-f1aeeb3aa0ef5d0f.js",
+      "static/chunks/pages/signin-d4cb6d25df77b87a.js"
+    ],
+    "/signup": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/43-3f070fdd4d2197a0.js",
+      "static/chunks/24-82ae58d660024ddf.js",
+      "static/chunks/461-a452b847ec84c771.js",
+      "static/chunks/831-1223a20ce95bca74.js",
+      "static/chunks/798-f1aeeb3aa0ef5d0f.js",
+      "static/chunks/pages/signup-f9415d01b573497f.js"
+    ],
+    "/user/reset_password": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/24-82ae58d660024ddf.js",
+      "static/chunks/187-fe62b2de8d85c821.js",
+      "static/chunks/pages/user/reset_password-18d2fbe2ff367e58.js"
+    ],
+    "/user/subscribe": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/228-bfc8cd085e75bcb3.js",
+      "static/chunks/24-82ae58d660024ddf.js",
+      "static/chunks/548-fc7006fa9c8dffd7.js",
+      "static/chunks/499-9f9b48fdc81caa75.js",
+      "static/chunks/187-fe62b2de8d85c821.js",
+      "static/chunks/421-40ae7ba27081c922.js",
+      "static/css/01e444063ef3919e.css",
+      "static/chunks/pages/user/subscribe-a7750015bc3e4516.js"
+    ],
+    "/user/unsubcribe": [
+      "static/chunks/webpack-c21fd345984bfc83.js",
+      "static/chunks/framework-84e59a54b2c6310c.js",
+      "static/chunks/main-ce22036c906cc47c.js",
+      "static/chunks/352-5243c8d8d3dead41.js",
+      "static/chunks/316-874db376b2bad23a.js",
+      "static/chunks/24-82ae58d660024ddf.js",
+      "static/chunks/187-fe62b2de8d85c821.js",
+      "static/chunks/pages/user/unsubcribe-0763ba6243de6dda.js"
+    ]
+  },
+  "ampFirstPages": []
+}
